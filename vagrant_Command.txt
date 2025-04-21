@@ -1,0 +1,11 @@
+vagrant -v → Check Vagrant version
+
+vagrant init → Create default Vagrantfile
+
+vagrant box add ubuntu/trusty64 → Add Ubuntu base box
+
+vagrant box list → List installed Vagrant boxes
+
+vagrant up
+
+vagrant ssh
